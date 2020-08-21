@@ -2,7 +2,7 @@
 This is a dataset about keyboards, created from web scraping Skroutz.gr.
 
 ### Skroutz.gr
-Skroutz.gr is a very popular Greek online store. 
+Skroutz.gr (https://www.skroutz.gr/) is a very popular Greek online store. 
 We scrapped the keyboard data from the html components on the site's pages.
 
 ### Tools
